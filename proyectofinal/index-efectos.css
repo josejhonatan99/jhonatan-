@@ -7,3 +7,13 @@
         background: rgb(3, 146, 161);
     }
     
+
+
+    @keyframes movimiento{
+        from{
+            background-position: bottom left;
+        }
+        to{
+            background-position: top right;
+        }
+    }
